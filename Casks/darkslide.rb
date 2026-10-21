@@ -1,6 +1,6 @@
 cask "darkslide" do
-  version "1.0"
-  sha256 "23590bd56b0e3774ffa608432f31d36ba16878c90bf35a7a81e455a332653f54"
+  version "1.1"
+  sha256 "be471f2bd65c4fa2654bb5caed3c54ea2f02b19701be6b0b69c8d26e9d532db9"
 
   url "https://github.com/GhostInTheBus/darkslide/releases/download/v#{version}/Darkslide-#{version}.zip"
   name "Darkslide"
