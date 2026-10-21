@@ -8,7 +8,7 @@ cask "darkslide" do
   homepage "https://github.com/GhostInTheBus/darkslide"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Darkslide.app"
 
